@@ -1,0 +1,528 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Julien Anglade",
+    "label": "Concepteur Développeur d'Applications\nEn recherche d’un stage de 2 mois (à partir du 20/01/2025)",
+    "image": "",
+    "email": "julienanglade@wanadoo.fr",
+    "phone": "",
+    "url": "",
+    "summary": "<En recherche d’un stage de 2 mois (à partir du 20/01/2025)>\n\nFort de 6 années d'expérience en recherche dans les biotechnologies, je me lance actuellement dans un projet de reconversion vers le domaine du numérique. Attiré depuis toujours par les nouvelles technologies et l'informatique, mon intérêt n’a pas cessé de se développer et se combine à ma motivation pour m’investir dans cette transition. Ma curiosité et mon aptitude à assimiler rapidement de nouveaux concepts font que je suis prêt à m’impliquer pleinement pour acquérir les fondamentaux et renforcer mon profil scientifique (investigateur et logique). En effet, ma carrière antérieure m'a permis de développer des compétences analytiques pointues, une rigueur méthodologique, le gout de l’innovation et une capacité à travailler en équipe ; atouts clefs pour réussir le défi stimulant d’une reconversion vers un poste de concepteur/développeur.\n\n𝐀𝐩𝐩𝐫𝐞𝐧𝐭𝐢𝐬𝐬𝐚𝐠𝐞 𝐝𝐞𝐬 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐬𝐮𝐢𝐯𝐚𝐧𝐭𝐞𝐬 :\n- Langage C, C++, JAVA (JSE, J2E, Frameworks JAVA), Android\n- HTML5/CSS3, JavaScript, Angular, MySQL\n- Gestion de projet informatique, UML, MERISE, Design Pattern\n- Sécurité informatique, Déploiement d'applications\n\nRéalisation de plusieurs projets tutorés en groupe\n\nPour me contacter : julienanglade@wanadoo.fr",
+    "location": {
+      "countryCode": "FR",
+      "address": "France"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "julienanglade",
+        "url": "https://www.linkedin.com/in/julienanglade/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "TBI - Toulouse Biotechnology Institute, Bio & Chemical Engineering",
+      "position": "Ingénieur d’études",
+      "startDate": "2021-04-30",
+      "endDate": "2023-12-31",
+      "highlights": [],
+      "summary": "Caractérisation et optimisation enzymatique de PETases\nINRAE : 15/04/21 au 31/12/21\nINSA : 01/01/22 au 31/12/23\n\nEquipe coopérative entre le privé (Carbios) et le public (INSA) au sein du laboratoire PoPLaB (Polymères Plastiques et Biotechnologies) : recherche en ingénierie enzymatique pour le recyclage des plastiques.\n\nCulture microbiologique / Clonage / Purification de protéines / SDS-PAGE / HPLC / FPLC / Enzymologie",
+      "url": "https://www.linkedin.com/company/tbi-toulouse-biotechnology-institute/",
+      "location": "Toulouse, Occitanie, France"
+    },
+    {
+      "name": "CNRS - Centre national de la recherche scientifique",
+      "position": "Assistant ingénieur",
+      "startDate": "2019-11-30",
+      "endDate": "2020-12-31",
+      "highlights": [],
+      "summary": "Laboratoire de Microbiologie et Génétique Moléculaires (LMGM, CBI, CNRS) de Toulouse. Equipe \"Métabolisme de l'ARN chez les Archées\" dirigée par Béatrice Clouet D'Orval.\nProjet principal : \"Préparation de protéines recombinantes chez E. coli afin de purifier et reconstituer l’éxosome chez Pyrococcus abyssi\".\n\nCulture microbiologique / Purification de protéines (FPLC) / SDS-PAGE / Clonage / Pull-down / Western Blot / Encadrement Apprentis Chercheurs et stagiaires BTS et M1",
+      "url": "https://www.linkedin.com/company/cnrs/",
+      "location": "Toulouse"
+    },
+    {
+      "name": "CNRS - Centre national de la recherche scientifique",
+      "position": "Assistant ingénieur",
+      "startDate": "2019-10-31",
+      "endDate": "2019-10-31",
+      "highlights": [],
+      "summary": "Équipe \"Control of cell shape remodeling\" du Centre de Biologie du Développement (CBD, CBI, CNRS) de Toulouse.\nRattaché à l'équipe \"Dynamique Chromatinienne et Prolifération Cellulaire\" du Laboratoire de Biologie Moléculaire Eucaryote (LBME, CBI, CNRS) de Toulouse.",
+      "url": "https://www.linkedin.com/company/cnrs/",
+      "location": "Toulouse"
+    },
+    {
+      "name": "CNRS - Centre national de la recherche scientifique",
+      "position": "Assistant ingénieur",
+      "startDate": "2017-10-31",
+      "endDate": "2019-10-31",
+      "highlights": [],
+      "summary": "Laboratoire de Biologie Moléculaire Eucaryote (LBME, CBI, CNRS) de Toulouse. Equipe \"Dynamique Chromatinienne et Prolifération Cellulaire\" dirigée par Olivier Cuvier. Projet principal : \"Cartographie et quantification de cassures ADN en fonction de modifications épigénétiques et épitransciptomiques chez D. melanogaster\".\n\nCulture cellulaire / ChIP / qPCR 384 puits / Extraction ADN ou ARN / Western Blot / Encadrements stagiaires M1",
+      "url": "https://www.linkedin.com/company/cnrs/",
+      "location": "Région de Toulouse, France"
+    },
+    {
+      "name": "Ambiotis",
+      "position": "Stagiaire ingénieur de recherche en biotechnologies appliquées à la santé",
+      "startDate": "2017-01-31",
+      "endDate": "2017-07-31",
+      "highlights": [],
+      "summary": "Mise en place d’une technique de mesure de l’expression de miRNA lors de la phase de résolution de l’inflammation sur les modèles murin et humain.  Stage de fin d'étude.\n\nCulture cellulaire / Extraction ARN / RT-qPCR / Veille scientifique / Commandes",
+      "url": "https://www.linkedin.com/company/ambiotis/",
+      "location": "Région de Toulouse, France"
+    },
+    {
+      "name": "CNRS - Centre national de la recherche scientifique",
+      "position": "Stagiaire recherche",
+      "startDate": "2016-07-31",
+      "endDate": "2016-08-31",
+      "highlights": [],
+      "summary": "Stage facultatif d'été au sein du Laboratoire de Biologie Moléculaire Eucaryote (LBME, CNRS) de Toulouse. Sujet: « Rôle de la Pause transcriptionnelle dans la maturation de l'ARN Pol II » dans l’équipe « Dynamique Chromatinienne et Prolifération Cellulaire » dirigée par Olivier Cuvier.\n\nCulture cellulaire / ChIP / qPCR 384 puits / Extraction ADN",
+      "url": "https://www.linkedin.com/company/cnrs/"
+    },
+    {
+      "name": "CNRS - Centre national de la recherche scientifique",
+      "position": "Stagiaire recherche",
+      "startDate": "2015-11-30",
+      "endDate": "2016-01-31",
+      "highlights": [],
+      "summary": "Stage dans le cadre de l'UE « Initiation aux Méthodes de Recherche » (Université) au sein du Laboratoire de Biologie Moléculaire Eucaryote (LBME, CNRS) de Toulouse. Sujet de stage: « Mécanisme d’action de l’activateur de transcription DREF chez D. melanogaster. » dans l’équipe « Dynamique Chromatinienne et Prolifération Cellulaire » dirigée par Olivier Cuvier.\n\nCulture cellulaire / ChIP / qPCR 384 puits / Extraction ADN",
+      "url": "https://www.linkedin.com/company/cnrs/"
+    },
+    {
+      "name": "CNRS - Centre national de la recherche scientifique",
+      "position": "Stagiaire recherche",
+      "startDate": "2014-11-30",
+      "endDate": "2014-12-31",
+      "highlights": [],
+      "summary": "Stage facultatif « Expérience professionnelle en laboratoire » au sein du Laboratoire de Microbiologie et Génétique Moléculaires (LMGM, CNRS) de Toulouse. Projet d’isolement des sous-activités des protéines de ségrégation SopA/SopB dans l’équipe « Moteurs de la ségrégation du génome : mécanisme et diversité » dirigée par Jean-Yves Bouet.\n\nCulture microbiologique / Clonage / PCR / Mutagénèse dirigée",
+      "url": "https://www.linkedin.com/company/cnrs/"
+    },
+    {
+      "name": "BIOSENTEC",
+      "position": "Technicien stagiaire",
+      "startDate": "2014-09-30",
+      "endDate": "2014-10-31",
+      "highlights": [],
+      "summary": "Stage facultatif en tant que Technicien de laboratoire au sein du laboratoire BIOSENTEC (Auzeville-Tolosane, 31)  pour la conception de kits enzymatiques pour la recherche, l’œnologie, et l’agroalimentaire (Lettre de recommandation disponible).\n\nPréparation des réactifs / Contrôle qualité / Conditionnement / BPL ISO 9001",
+      "url": "https://www.linkedin.com/company/biosentec/",
+      "location": "Région de Toulouse, France"
+    },
+    {
+      "name": "Thalès Alenia Space",
+      "position": "Aide magasinier",
+      "startDate": "2013-07-31",
+      "endDate": "2013-07-31",
+      "highlights": [],
+      "summary": "Emploi épisodique d’été en tant que Aide magasinier à THALES ALENIA SPACE (Toulouse, 31). Suivis et mises en stock avec le logiciel Control Open et rangement des stocks de la salle blanche (faible concentration en particules).",
+      "url": "https://www.linkedin.com/company/thales-alenia-space/"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Lycée Henri Matisse Cugnaux",
+      "position": "Bourse aux livres du lycée",
+      "startDate": "",
+      "endDate": "",
+      "summary": null,
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/0"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Collège Jacqueline Auriol Villeneuve-Tolosane",
+      "area": "",
+      "studyType": "Brevet des collège",
+      "startDate": "2003-12-31",
+      "endDate": "2007-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "LDNR formation",
+      "area": "",
+      "studyType": "Titre professionnel de \"Concepteur Développeur d'Applications\", RNCP niveau 6 (bac+3/+4)",
+      "startDate": "2024-04-30",
+      "endDate": "2025-03-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Université Paul Sabatier (Toulouse III)",
+      "area": "Biotechnologies Moléculaires et Cellulaires appliquées à la Santé",
+      "studyType": "Master's degree, Second year",
+      "startDate": "2016-12-31",
+      "endDate": "2017-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Université Paul Sabatier (Toulouse III)",
+      "area": "Biosanté",
+      "studyType": "Master's degree, First Year",
+      "startDate": "2015-12-31",
+      "endDate": "2016-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Université Paul Sabatier Toulouse III",
+      "area": "Biologie Cellulaire et Physiologie (BCP)",
+      "studyType": "Bachelor of Applied Science (BASc)",
+      "startDate": "2010-12-31",
+      "endDate": "2015-12-31",
+      "score": "",
+      "courses": []
+    },
+    {
+      "institution": "Lycée Henri Matisse Cugnaux",
+      "area": "Biology, General",
+      "studyType": "Baccalauréat Série Scientifique",
+      "startDate": "2007-12-31",
+      "endDate": "2010-12-31",
+      "score": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "10 secrets pour réussir sa carrière",
+      "issuer": "LinkedIn",
+      "startDate": "2021-02-28",
+      "url": "https://www.linkedin.com/learning/certificates/6f801beb9c4a7977a9def2cbc3d0bf1817a9e8e25a520efa14d575e959ad1da2?trk=backfilled_certificate"
+    },
+    {
+      "name": "Découvrir 12 compétences professionnelles clés",
+      "issuer": "LinkedIn",
+      "startDate": "2021-02-28",
+      "url": "https://www.linkedin.com/learning/certificates/5cd20e2544dd74260991d23e28311efbf3dd0767ea56c64efd903bff909a82af?trk=backfilled_certificate"
+    },
+    {
+      "name": "Définir et atteindre ses objectifs professionnels",
+      "issuer": "LinkedIn",
+      "startDate": "2021-02-28",
+      "url": "https://www.linkedin.com/learning/certificates/b8d26b352937a181506fbf5285179f568b035eb2d53e9babe67e3af096df3759?trk=backfilled_certificate"
+    },
+    {
+      "name": "Apprendre à mieux se connaître",
+      "issuer": "LinkedIn",
+      "startDate": "2021-02-28",
+      "url": "https://www.linkedin.com/learning/certificates/e52cad9b258571d738310001f97f11a84ba3206dd26babfbdee5c3f1c6638daf?trk=backfilled_certificate"
+    },
+    {
+      "name": "MOOC Connaître et comprendre les bases de la cybersécurité",
+      "issuer": "ANSSI - Agence nationale de la sécurité des systèmes d'information",
+      "startDate": "2024-02-28"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Crosstalk between chromatin and Shavenbaby defines transcriptional output along the Drosophila intestinal stem cell lineage",
+      "publisher": "iScience",
+      "releaseDate": "2023-12-03",
+      "summary": "Alexandra Mancheno-Ferris, Clément Immarigeon, Alexia Rivero, David Depierre, Naomi Schickele, Olivier Fosseprez, Nicolas Chanard, Gabriel Aughey, Priscilla Lhoumaud, Julien Anglade, Tony Southall, Serge Plaza, François Payre, Olivier Cuvier and Cédric Polesello\n\n(iScience, 2023)",
+      "url": "https://doi.org/10.1016/j.isci.2023.108624"
+    },
+    {
+      "name": "Assessment of Four Engineered PET Degrading Enzymes Considering Large-Scale Industrial Applications",
+      "publisher": "ACS Catalysis",
+      "releaseDate": "2023-09-26",
+      "summary": "Grégory Arnal, Julien Anglade, Sabine Gavalda, Vincent Tournier, Nicolas Chabot, Uwe T. Bornscheuer, Gert Weber, and Alain Marty\n\nIn recent years, enzymatic recycling of the widely used polyester polyethylene terephthalate (PET) has become a complementary solution to current thermomechanical recycling for colored, opaque, and mixed PET. A large set of promising hydrolases that depolymerize PET have been found and enhanced by worldwide initiatives using various methods of protein engineering. Despite the achievements made in these works, it remains difficult to compare enzymes’ performance and their applicability to large-scale reactions due to a lack of homogeneity between the experimental protocols used. Here, we pave the way for a standardized enzymatic PET hydrolysis protocol using reaction conditions relevant for larger scale hydrolysis and apply these parameters to four recently reported PET hydrolases (LCCICCG, FAST-PETase, HotPETase, and PES-H1L92F/Q94Y). We show that FAST-PETase and HotPETase have intrinsic limitations that may not permit their application on larger reaction scales, mainly due to their relatively low depolymerization rates. With 80% PET depolymerization, PES-H1L92F/Q94Y may be a suitable candidate for industrial reaction scales upon further rounds of enzyme evolution. LCCICCG outperforms the other enzymes, converting 98% of PET into the monomeric products terephthalic acid (TPA) and ethylene glycol (EG) in 24 h. In addition, we optimized the reaction conditions of LCCICCG toward economic viability, reducing the required amount of enzyme by a factor of 3 and the temperature of the reaction from 72 to 68 °C. We anticipate our findings to advance enzymatic PET hydrolysis toward a coherent assessment of the enzymes and materialize feasibility at larger reaction scales.",
+      "url": "http://dx.doi.org/10.1021/acscatal.3c02922"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Visual Studio Code",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "NetBeans",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C++",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Cybersécurité (notions)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Research",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Bonnes pratiques de laboratoire",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Python (langage de programmation)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Compétences en laboratoire",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Biologie moléculaire",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Laboratoire",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Extraction d'ADN",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "C (langage de programmation)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Préparation d'ADN/ARN",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "qPCR",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Minitab",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Expression de protéines",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Molecular Biology",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "J2EE Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Western blot",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Excel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Génomique",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Recherche",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Office",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Culture cellulaire",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java SE",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Android",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Biotechnologie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Clonage moléculaire",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microsoft Word",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "MySQL",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Biochimie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "miniprep",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PowerPoint",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Purification de protéines",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Microbiologie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Biologie",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Langage de modélisation unifié (UML)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "ELISA",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Adaptation",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Feuilles de style en cascade (CSS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Réaction en chaîne par polymérase",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Angular",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Travail d'équipe",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Lifesciences",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Électrophorèse sur gel",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Patrons de conception",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "fr",
+      "fluency": "Native Speaker"
+    },
+    {
+      "fluency": "Professional Working",
+      "language": "Anglais"
+    },
+    {
+      "fluency": "Elementary",
+      "language": "Espagnol"
+    },
+    {
+      "fluency": "Native Speaker",
+      "language": "Français"
+    }
+  ],
+  "interests": [],
+  "references": [],
+  "projects": [
+    {
+      "name": "Application Web \"Open Food Facts\" like",
+      "startDate": "2024-08-31",
+      "summary": "Conceptions et développement d'une application Web sur Angular permettant d'obtenir des informations et données sur des produits alimentaires via l'API \"Open Food Facts\"",
+      "url": null,
+      "endDate": "2024-08-31"
+    },
+    {
+      "name": "Station météo",
+      "startDate": "2024-07-31",
+      "summary": "Conception et développement Web d'une station météo basique d'entraînement. Elle permet de connaitre la température du jour, l'éphéméride (saint du jour, l'heure de couché et levé du soleil) ainsi que les prévisions sur 3 jours. Elle comprend également un formulaire de contact.",
+      "url": null,
+      "endDate": "2024-07-31"
+    }
+  ],
+  "meta": {
+    "version": "v1.0.0",
+    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+  }
+}
